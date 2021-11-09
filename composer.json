@@ -1,0 +1,16 @@
+{
+    "name": "deaduu/livechat",
+    "autoload": {
+        "psr-4": {
+            "Deaduu\\Livechat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deepak shinde",
+            "email": "iamthedpk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
